@@ -245,7 +245,7 @@ def cancel(update, context):
 
 
 def main():
-    updater = Updater("5289869519:AAGZx4zWpdzmSJnaXzKbBj5OZ2JKWcJTzqw", use_context=True)
+    updater = Updater("", use_context=True)
 
     dp = updater.dispatcher
 
